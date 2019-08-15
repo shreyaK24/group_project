@@ -5,3 +5,8 @@
 body {
   background-color: rgb(223, 170, 240);
 }
+.card-text{
+  font-family:helvetica;
+  font-style: italic;
+  font-size: 1.25em;
+}
