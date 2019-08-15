@@ -3,10 +3,16 @@
 }
 
 body {
-  background-color: rgb(223, 170, 240);
+  background-color: rgb(220, 145, 227)
+
 }
 .card-text{
   font-family:helvetica;
   font-style: italic;
   font-size: 1.25em;
+}
+h5,h6{
+  text-align: center;
+  font-family: cursive;
+  color: black
 }
