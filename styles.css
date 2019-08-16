@@ -19,4 +19,14 @@ h6{
 
 .lead {
     font-family: serif;
+    text-align: center;
+  }
+  .display-4, .lead{
+    text-align: center;
+    color: white;
+
+  }
+  .jumbotron{
+    background-image: url(./images/background.jpg);
+    background-size: cover;
   }
